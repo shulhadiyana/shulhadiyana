@@ -49,7 +49,7 @@
 
 ---
 
-### 🐍 Kontribusi Saya (dimakan oleh ular)
+### 🐍 Kontribusi Saya
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shulhadiyana/shulhadiyana/output/github-contribution-grid-snake-dark.svg">
